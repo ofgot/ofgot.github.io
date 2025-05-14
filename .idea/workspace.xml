@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b2ea485-c0fb-4d25-89a1-0fe745a35994" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/audio/tetris_music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/doc.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pacman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/qbasic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/snake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tetris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/common/Renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/tetris2/Arena.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/tetris2/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/tetris2/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/tetris2/Pieces.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/tetris2/Player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/tetris2/TetrisRenderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/tetris2/Utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheet/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetris.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ofgot.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ofgot&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ofgot/ofgot.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;45e82839-8a2b-465c-acc7-88335402774f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2x5GntyCxakr0glySj9a1wOGptF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ofgot/Documents/GitHub/webapp/ofgot.github.io&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.33112583&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.26775.15" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.26775.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b2ea485-c0fb-4d25-89a1-0fe745a35994" name="Changes" comment="" />
+      <created>1747220691704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747220691704</updated>
+      <workItem from="1747220693096" duration="14000" />
+      <workItem from="1747220816794" duration="156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
